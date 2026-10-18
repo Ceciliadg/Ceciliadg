@@ -1,5 +1,3 @@
 Hi, I’m @Ceciliadg!
-  I’m interested in improve my developer skills.
-  I’m currently learning FrontEnd, Angular, TS, JS, Python. Undergraduate in Computer and robotics (UFRGS).
-  How to reach me: cecilia.duarte.garcia@gmail.com.
-
+I’m passionate about technology, software development, and cybersecurity. I’m always looking to expand my knowledge and improve my development skills. Currently, I’m exploring Front-End development with Angular, TypeScript, and JavaScript, as well as Python. BSc in Computer Science and Educational Robotics from UFRGS. Currently pursuing a Master’s degree in Computer Science, with an interest in cybersecurity.
+Contact: cecilia.duarte.garcia@gmail.com
